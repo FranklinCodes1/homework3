@@ -8,7 +8,7 @@ var numArr = num.split("");
 var sym = "!#$%&)*+,-./:;<=>?@^[]^_`{|}~";
 var symArr = sym.split("");
 
-alert("PSSST... Hey... Let's generate a secret password yeah? Please click generate new password, I've put so many hours into this, my head hurts!"); // personal message
+alert("PSSST... Hey... Let's generate a secret password yeah? Please click OK to continue to make a new password, my class and I have put so many hours into this, my head hurts!"); // personal message
 
 function generatePassword(){ //what is it I ultimately want to achieve with this homework
   var allCharacters = [];  //made a variable of all characters inside function which then reacts to line...24,27,30,33,35,40,41
@@ -54,3 +54,4 @@ function writePassword() {
   var passwordText = document.querySelector("#password");
   passwordText.value = password;
 }
+console.log(resultPassword)
