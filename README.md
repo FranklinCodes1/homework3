@@ -5,3 +5,4 @@ use this quick link to access my page!
 V
 https://www.github.com/FranklinCodes1/homework3.git 
 
+![HOMEWORK3](images/lol.jpg)
